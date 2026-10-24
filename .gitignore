@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+gpt2_sft/
+gpt2_rlhf_result/
